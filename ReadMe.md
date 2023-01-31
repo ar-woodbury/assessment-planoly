@@ -48,4 +48,4 @@ To run the queries and view the results requires some setup steps:
 ---
 # Closing
 
-This results of this assessment shows how I plan, execute, and organize my work with data. I used tools I didn't have experience with (but am familiar with JetBrains products), with the exception of dbt which I could not successfully connect to but will explore further. I did slightly exceed the requested time but needed to ensure the code provided would run successfully. I look forward to discussing my product!
+This results of this assessment shows how I plan, execute, and organize my work with data. I used tools I didn't have experience with (but am familiar with JetBrains products), with the exception of dbt which I could not successfully connect to but will explore further. I did slightly exceed the requested time but needed to ensure the code provided would run successfully. I look forward to discussing my product!# planoly
